@@ -15,7 +15,6 @@
 
 .item {
   flex: 1;
-  margin: auto;
   padding: 5px;
 }
 
@@ -75,6 +74,10 @@ a:link {
 
 a:hover {
   color: #f77f00;
+}
+
+nav {
+  margin:auto;
 }
 
 nav a {
