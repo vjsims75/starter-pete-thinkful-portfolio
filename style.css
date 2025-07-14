@@ -3,6 +3,8 @@
 
 .wrapper {
   width: 100%;
+  max-width: 620px;
+  margin: auto;
 }
 
 .group {
@@ -22,10 +24,15 @@
   text-align: left;
 }
 
+.align-right {
+  text-align: right;
+}
+
 .item-description
 {
   font-size: 14px;
 }
+
 body {
   background-color: #eae2b7;
   color: #003049;
